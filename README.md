@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Come-Together-Compass/Come-Together-Compass">
+  <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase">
     <img src="assets/images/compass-thumbnail.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     A community resource locator and intake platform developed for Community Pay It Forward (ASU Capstone #38).
     <br />
-    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass">View Demo</a>
+    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase">View Demo</a>
     &middot;
-    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Come-Together-Compass/Come-Together-Compass)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase)
 
 Come Together Compass is a senior capstone project currently in active development with a team of 5 engineers for the non-profit organization Community Pay It Forward (ASU Capstone #38). The web platform connects families and individuals in need with verified local assistance programs—such as food pantries, emergency shelters, and healthcare services—through an interactive map, conversational guidance, and administrative verification.
 
@@ -138,7 +138,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Come-Together-Compass/Come-Together-Compass.git
+   git clone https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase.git
    ```
 2. Install NPM packages
    ```sh
@@ -172,6 +172,12 @@ To get a local copy up and running, follow these simple steps.
 
 Come Together Compass provides three core access paths:
 
+* **Community Portal & Search:** Search assistance programs by address, city, or need with rapid access to verified food, shelter, and medical support.
+
+  <p align="center">
+    <img src="assets/images/compass-home-preview.jpg" alt="Come Together Compass Portal" width="100%">
+  </p>
+
 * **Interactive Resource Map:** Search community resources by zip code, city, or live location. Filter by category (food, housing, healthcare) with proximity calculations and detailed listing information.
 
   <p align="center">
@@ -190,7 +196,7 @@ Come Together Compass provides three core access paths:
     <img src="assets/images/compass-preferences-preview.jpg" alt="Preferences Questionnaire" width="70%">
   </p>
 
-_For more examples, please refer to the [Documentation](https://github.com/Come-Together-Compass/Come-Together-Compass)_
+_For more examples, please refer to the [Documentation](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +212,7 @@ _For more examples, please refer to the [Documentation](https://github.com/Come-
 - [ ] Offline caching for field volunteer resource coordination
 - [ ] Automated SMS resource delivery for low-bandwidth users
 
-See the [open issues](https://github.com/Come-Together-Compass/Come-Together-Compass/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,8 +236,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/Come-Together-Compass/Come-Together-Compass/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Come-Together-Compass/Come-Together-Compass" alt="contrib.rocks image" />
+<a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Come-Together-Compass/Come-Together-Compass-Showcase" alt="contrib.rocks image" />
 </a>
 
 
@@ -250,7 +256,7 @@ Distributed under the ISC License. See `LICENSE.txt` for more information.
 
 Timothy Hansen - [@timothy_hansen](https://twitter.com) - t@tjhansen.net
 
-Project Link: [https://github.com/Come-Together-Compass/Come-Together-Compass](https://github.com/Come-Together-Compass/Come-Together-Compass)
+Project Link: [https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -272,19 +278,19 @@ Project Link: [https://github.com/Come-Together-Compass/Come-Together-Compass](h
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Come-Together-Compass/Come-Together-Compass.svg?style=for-the-badge
-[contributors-url]: https://github.com/Come-Together-Compass/Come-Together-Compass/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Come-Together-Compass/Come-Together-Compass.svg?style=for-the-badge
-[forks-url]: https://github.com/Come-Together-Compass/Come-Together-Compass/network/members
-[stars-shield]: https://img.shields.io/github/stars/Come-Together-Compass/Come-Together-Compass.svg?style=for-the-badge
-[stars-url]: https://github.com/Come-Together-Compass/Come-Together-Compass/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Come-Together-Compass/Come-Together-Compass.svg?style=for-the-badge
-[issues-url]: https://github.com/Come-Together-Compass/Come-Together-Compass/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Come-Together-Compass/Come-Together-Compass-Showcase.svg?style=for-the-badge
+[contributors-url]: https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Come-Together-Compass/Come-Together-Compass-Showcase.svg?style=for-the-badge
+[forks-url]: https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/network/members
+[stars-shield]: https://img.shields.io/github/stars/Come-Together-Compass/Come-Together-Compass-Showcase.svg?style=for-the-badge
+[stars-url]: https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Come-Together-Compass/Come-Together-Compass-Showcase.svg?style=for-the-badge
+[issues-url]: https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/issues
 [license-shield]: https://img.shields.io/badge/License-ISC-blue.svg?style=for-the-badge
 [license-url]: https://opensource.org/licenses/ISC
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/timothy-hansen-dev
-[product-screenshot]: assets/images/compass-home-preview.jpg
+[product-screenshot]: assets/images/compass-map-preview.jpg
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [TypeScript]: https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
