@@ -205,12 +205,24 @@ _For more examples, please refer to the [Documentation](https://github.com/Come-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Interactive map with Leaflet & U.S. Census Bureau geocoding
-- [x] In-memory ephemeral chatbot with preference-based resource matching
-- [x] Admin & Partner portal with role-based verification workflows
-- [ ] Multi-language localization (Spanish interface)
-- [ ] Offline caching for field volunteer resource coordination
-- [ ] Automated SMS resource delivery for low-bandwidth users
+- [x] PostgreSQL relational database
+- [x] Automated public data ingestion pipeline
+- [x] Address geocoding and automated entity deduplication
+- [x] RESTful API with category and proximity filtering
+- [x] Interactive Leaflet map with localized resource pins
+- [x] Virtual crisis hotline and phone support integration
+- [x] Search bar with resource filters
+- [x] Color-coded resource category tags and detail cards
+- [ ] Picture-first onboarding questionnaire and personalized suggestions
+- [ ] Finalized in-memory navigation assistant
+- [ ] Real-time crisis detection with 1-tap 988/211 emergency redirection
+- [ ] Interactive grounding tools (box breathing animation and sensory exercises)
+- [ ] Admin portal for direct resource management
+- [ ] User accounts and saved favorite resources
+- [ ] Offline mode and local caching
+- [ ] Multilingual support
+- [ ] Community groups and peer discussion forums
+- [ ] AWS cloud deployment and custom domain setup
 
 See the [open issues](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/issues) for a full list of proposed features (and known issues).
 
@@ -234,14 +246,24 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
+### Contributors:
 
-<a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Come-Together-Compass/Come-Together-Compass-Showcase" alt="contrib.rocks image" />
+<a href="https://github.com/TimothyH3">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/8c7fd273-4144-4240-ba0a-4cb26e3f7468" />
+
 </a>
-
-
-
+<a href="https://github.com/M-AZEEM1">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/ca1f7caf-a023-4f50-b22c-977e93162fe3" />
+</a>
+<a href="https://github.com/mcbower6">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/fbf7bad0-acb8-4e0b-b69d-4b377470c96e" />
+</a>
+<a href="https://github.com/rkeng01">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/fa724e79-bfa6-4d13-80ee-284afcdaaab1" />
+</a>
+<a href="https://github.com/mzima-heap">
+  <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/d5bbee79-2f6c-4ccf-a01d-b8e723c5bf78" />
+</a>
 <!-- LICENSE -->
 ## License
 
