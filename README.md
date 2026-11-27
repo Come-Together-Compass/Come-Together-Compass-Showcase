@@ -37,7 +37,7 @@
 <h3 align="center">Come Together Compass</h3>
 
   <p align="center">
-    A community resource locator and intake platform developed for Community Pay It Forward (ASU Capstone #38).
+    A community resource locator and intake platform developed for Community Pay It Forward (ASU Capstone Team #6).
     <br />
     <a href="https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase"><strong>Explore the docs »</strong></a>
     <br />
@@ -86,7 +86,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/Come-Together-Compass/Come-Together-Compass-Showcase)
 
-Come Together Compass is a senior capstone project currently in active development with a team of 5 engineers for the non-profit organization Community Pay It Forward (ASU Capstone #38). The web platform connects families and individuals in need with verified local assistance programs such as food pantries, emergency shelters, and healthcare services through an interactive map, conversational guidance, and administrative verification.
+Come Together Compass is a senior capstone project currently in active development with a team of 5 engineers for the non-profit organization Community Pay It Forward. The web platform connects families and individuals in need with verified local assistance programs such as food pantries, emergency shelters, and healthcare services through an interactive map, conversational guidance, and administrative verification.
 
 The platform is designed around accessibility and user privacy:
 * Connects with the public U.S. Census Bureau REST geocoding service and Leaflet/OpenStreetMap to avoid expensive third-party mapping fees.
