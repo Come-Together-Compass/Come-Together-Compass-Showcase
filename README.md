@@ -250,20 +250,24 @@ Don't forget to give the project a star! Thanks again!
 
 <a href="https://github.com/TimothyH3">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/8c7fd273-4144-4240-ba0a-4cb26e3f7468" />
-
 </a>
+
 <a href="https://github.com/M-AZEEM1">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/ca1f7caf-a023-4f50-b22c-977e93162fe3" />
 </a>
+
 <a href="https://github.com/mcbower6">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/fbf7bad0-acb8-4e0b-b69d-4b377470c96e" />
 </a>
+
 <a href="https://github.com/rkeng01">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/fa724e79-bfa6-4d13-80ee-284afcdaaab1" />
 </a>
+
 <a href="https://github.com/mzima-heap">
   <img width="65" height="65" alt="image" src="https://github.com/user-attachments/assets/d5bbee79-2f6c-4ccf-a01d-b8e723c5bf78" />
 </a>
+
 <!-- LICENSE -->
 ## License
 
